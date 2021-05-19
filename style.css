@@ -1,0 +1,222 @@
+body{
+background-color: #ffe6ff;
+color: #4d004d;
+font-family: Arial;
+font-size: 16px;
+line-height: 1.6em;
+margin:0;
+padding:0;
+}
+
+.container{
+width: 80%;
+margin: auto;
+overflow: hidden;
+}
+
+header{
+background-color: #ffccff;
+text-align: center;
+text-shadow: 8px 8px 8px white;
+font-size: 40px;
+text-transform; uppercase;
+}
+
+nav{
+background-color:  #ffccff;
+}
+
+nav ul{
+padding:0;
+text-align: center;
+}
+
+nav li{
+display: inline;
+}
+
+nav a{
+text-decoration: none;
+color: #2d275c;
+font: 20px;
+padding-right: 40px;
+font-weight:600;
+}
+
+nav a:hover{
+color: white;
+}
+
+.tekst ul{
+padding:0;
+}
+
+.tekst li{
+display: inline;
+}
+
+.tekst a{
+text-decoration: none;
+color: #ce5cce;
+font: 20px;
+padding-right: 40px;
+font-weight:600;
+}
+
+.tekst a:hover{
+color: white;
+}
+
+#index_slika{
+background-image: url(sprinkles.jpg);
+background-position: bottom;
+min-height: 250px;
+text-align: center;
+margin-bottom: 35px;
+}
+
+#index_slika h1{
+font-size: 50px; 
+text-shadow: 4px 4px 4px white;
+padding-top: 60px;
+line-height: 40px;
+}
+
+.tekst{
+width: 69%;
+float: left;
+box-sizing: border-box;
+}
+
+.tekst h4{
+text-align: center;
+font-size: 40px;
+line-height: 50px;
+font-family: Lucida Console, cursive;
+color: dark purple;
+margin-top: 2%;
+margin-bottom: 2%;
+}
+
+.sidebar{
+width: 28%;
+float: right;
+box-sizing: border-box;
+}
+
+.sidebar p{
+text-align: center;
+}
+
+.sidebar img{
+width: 97.9%;
+background-color: white;
+padding: 5%;
+box-sizing: border-box;
+}
+
+#popis ul{
+text-align: center;
+padding-top: 20px;
+}
+
+#popis a{
+text-decoration: none;
+color: black;
+}
+
+#popis li{
+background-color: white;
+display: block;
+margin: 1%;
+padding-bottom: 15px;
+padding-top: 15px;
+}
+
+#popis li:hover{
+background-color: yellow;
+color: red;
+}
+
+#moj li:hover{
+background-color: green;
+color: #ce5cce;
+}
+
+.onama{
+font-size: 25px;
+line-height: 1.6em;
+}
+
+.onama h2{
+text-align: center;
+font-size: 50px;
+line-height: 50px;
+font-family: Lucida Console, cursive;
+color: #ce5cce;
+}
+
+.onama a{
+text-decoration: none;
+color: #ce5cce;
+}
+
+.onama a:hover{
+color: red;
+}
+
+.tekst h2{
+text-align: center;
+font-size: 30px;
+color: #ce5cce;
+text-transform: uppercase;
+}
+
+.tekst p{
+font-size: 24px;
+line-height: 1.25em;
+text-align: center;
+}
+
+.modeli h5{
+font-size: 25px;
+color: #ce5cce;
+font-weight: bold;
+margin-bottom: 3%;
+}
+
+.modeli a{
+text-decoration: none;
+color: #ce5cce;
+}
+
+.modeli a:hover{
+color: red;
+}
+
+#kontakti h2{
+text-align: center;
+font-size: 50px;
+line-height: 50px;
+font-family: Lucida Console, cursive;
+color: #ce5cce;
+margin-bottom: 2%;
+}
+
+.sidebar h3{
+text-align: center;
+font-size: 25px;
+color: #ce5cce;
+}
+
+.kolači h2{
+text-align: center;
+font-size: 50px;
+line-height: 50px;
+font-family: Lucida Console, cursive;
+color: #ce5cce;
+}
+
+.kolači li{
+text-align: center;
+}
